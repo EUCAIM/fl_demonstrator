@@ -4,22 +4,41 @@ As part of early release of the EUCAIM Data Federation Framework with preliminar
 
 ### Data federation
 
-### Scenario
+Nodes part of the federation are not necessarily the final Data Nodes of EUCAIM Data Federation, as for demonstration purposes, data in use here correspond to public datasets provided by the simulated FL experiments designed in this demonstrator.
 
-### Nodes
+[dibuixet network]
 
-- **FORTH** [Foundation for Research and Technology - Hellas (FORTH)](https://www.ics.forth.gr/)
-- **UB**    [Universitat de Barcelona](https://www.bcn-aim.org/)
-- **BSC**   [Barcelona Supercomputing Center](https://bsc.es)
+#### Nodes
+
+- **FORTH** &nbsp;[Foundation for Research and Technology - Hellas (FORTH)](https://www.ics.forth.gr/)
+- **UB**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Universitat de Barcelona](https://www.bcn-aim.org/)
+- **BSC**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Barcelona Supercomputing Center](https://bsc.es)
+
+
+### Federated Learning Simulated Experiments
+
+The demonstrator includes two different FL simulation scenarios, on based on Machine Learning (ML) techniques, the other on Deep Learning (DP) algorithms.
+
+| **FL Experiment**                                                  | **Type** | **Data**       | **Details**            |
+|--------------------------------------------------------------------|----------|----------------|------------------------|
+| Federated Classification using Homogenous Logistic Regression mode | ML | Exposome Data  | [Go](https://github.com/EUCAIM/demo_ml_data/tree/main)|
+| Mammography-based Breast Cancer Classification                     | DP | CMMD - Chinese Mammography Database |[Go]()|
 
 ### Federated Learning Platforms
 
-- [Flowr](fl_platforms/flowr.md)
-- [Fed-BioMed](fl_platforms/fed-biomed.md)
-- [Substra](fl_platforms/substra.md)
+EUCAIM Federated Learning frameworks have enrolled to at least one of the [Federated Learning Experiments](#federated-learning-experiments) simulated in this demonstrator. Learn more on howTheare providing detailed instructions on how to deploy t
 
-### 
+**Flowr**
+  -  [Learn More](fl_platforms/flowr.md)
+  -  [Access to Demonstrator]()
+    
+**Fed-BioMed**
+  -  [Learn More](fl_platforms/fed-biomed.md)
+  -  [Access to Demonstrator]()
+     
+**Substra**
+  -  [Learn More](fl_platforms/substra.md)
+  -  [Access to Demonstrator]()
 
-### Demonstrator Datasets
 
-Find in the `/data` folder all the information related to the datasets used for the simulation excercice 
+
