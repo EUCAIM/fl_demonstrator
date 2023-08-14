@@ -18,10 +18,10 @@ Nodes part of the federation are not necessarily the final Data Nodes of EUCAIM 
 
 The demonstrator includes two different FL simulation scenarios, on based on Machine Learning (ML) techniques, the other on Deep Learning (DP) algorithms.
 
-| **FL Experiment**                                                      | **Type** | **Data**                | **Details**                                  |
-|------------------------------------------------------------------------|----------|-------------------------|----------------------------------------------|
-| Federated Classification using Homogenous Logistic Regression mode     | ML       | Exposome Data           | [Go](https://github.com/EUCAIM/demo_ml_data/)|
-| Chest X-Ray Pneumonia Classification with Convolutional Neural Network | DP       | Chest X-Ray Images Data | [Go](https://github.com/EUCAIM/demo_dl_data/)|
+| **FL Experiment**                                                   | **Type** | **Data**                | **Details**                                  |
+|---------------------------------------------------------------------|----------|-------------------------|----------------------------------------------|
+| Federated Classification using Homogenous Logistic Regression model | ML       | Exposome Data           | [Go](https://github.com/EUCAIM/demo_ml_data/)|
+| Federated Classification using Convolutional Neural Network         | DP       | Chest X-Ray Images Data | [Go](https://github.com/EUCAIM/demo_dl_data/)|
 
 ### Federated Learning Platforms
 
