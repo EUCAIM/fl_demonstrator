@@ -10,10 +10,9 @@ Nodes part of the federation are not necessarily the final Data Nodes of EUCAIM 
 
 #### Nodes
 
-- **FORTH** &nbsp;[Foundation for Research and Technology - Hellas (FORTH)](https://www.ics.forth.gr/)
-- **UB**    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Universitat de Barcelona](https://www.bcn-aim.org/)
-- **BSC**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Barcelona Supercomputing Center](https://bsc.es)
-
+- **FORTH**: [Foundation for Research and Technology - Hellas (FORTH)](https://www.ics.forth.gr/)
+- **UB**: [Universitat de Barcelona](https://www.bcn-aim.org/)
+- **BSC**: [Barcelona Supercomputing Center](https://bsc.es)
 
 ### Federated Learning Simulated Experiments
 
@@ -21,24 +20,24 @@ The demonstrator includes two different FL simulation scenarios, on based on Mac
 
 | **FL Experiment**                                                  | **Type** | **Data**       | **Details**            |
 |--------------------------------------------------------------------|----------|----------------|------------------------|
-| Federated Classification using Homogenous Logistic Regression mode | ML | Exposome Data  | [Go](https://github.com/EUCAIM/demo_ml_data/tree/main)|
-| Mammography-based Breast Cancer Classification                     | DP | CMMD - Chinese Mammography Database |[Go]()|
+| Federated Classification using Homogenous Logistic Regression mode | ML | Exposome Data  | [Go](https://github.com/EUCAIM/demo_ml_data/)|
+| Mammography-based Breast Cancer Classification                     | DP | Chest X-Ray Images Data | [Go](https://github.com/EUCAIM/demo_dl_data/)|
 
 ### Federated Learning Platforms
 
-EUCAIM Federated Learning frameworks have enrolled to at least one of the [Federated Learning Experiments](#federated-learning-experiments) simulated in this demonstrator. Learn more on howTheare providing detailed instructions on how to deploy t
+The following are the EUCAIM Federated Learning frameworks that enrolled to at least one of the [Federated Learning Experiments](#federated-learning-experiments) simulated in this demonstrator:
 
 **Flowr**
   -  [Learn More](fl_platforms/flowr.md)
-  -  [Access to Demonstrator]()
+  -  [Access to Demonstrator]() - TODO -
     
 **Fed-BioMed**
   -  [Learn More](fl_platforms/fed-biomed.md)
-  -  [Access to Demonstrator]()
+  -  [Access to Demonstrator]() - TODO -
      
 **Substra**
   -  [Learn More](fl_platforms/substra.md)
-  -  [Access to Demonstrator]()
+  -  [Access to Demonstrator]() - TODO -
 
 
 
