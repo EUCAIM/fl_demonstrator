@@ -6,7 +6,7 @@ As part of early release of the EUCAIM Data Federation Framework with preliminar
 
 Nodes part of the federation are not necessarily the final Data Nodes of EUCAIM Data Federation, as for demonstration purposes, data in use here correspond to public datasets provided by the simulated FL experiments designed in this demonstrator.
 
-[dibuixet network]
+[display of the network were the experiments will be tested] - TODO -
 
 #### Nodes
 
