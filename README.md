@@ -28,15 +28,15 @@ The demonstrator includes two different FL simulation scenarios, on based on Mac
 The following are the EUCAIM Federated Learning frameworks that enrolled to at least one of the [Federated Learning Experiments](#federated-learning-experiments) simulated in this demonstrator:
 
 **Flowr**
-  -  [Learn More](fl_platforms/flowr.md)
+  -  [Learn More](fl_platforms/flowr.md) - TODO -
   -  [Access to Demonstrator]() - TODO -
     
 **Fed-BioMed**
-  -  [Learn More](fl_platforms/fed-biomed.md)
+  -  [Learn More](fl_platforms/fed-biomed.md) - TODO -
   -  [Access to Demonstrator]() - TODO -
      
 **Substra**
-  -  [Learn More](fl_platforms/substra.md)
+  -  [Learn More](fl_platforms/substra.md) - TODO -
   -  [Access to Demonstrator]() - TODO -
 
 
