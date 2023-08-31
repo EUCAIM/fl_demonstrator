@@ -20,7 +20,7 @@ The demonstrator includes two different FL simulation scenarios, on based on Mac
 
 | **FL Experiment**                                                   | **Type** | **Data**                | **Details**                                  |
 |---------------------------------------------------------------------|----------|-------------------------|----------------------------------------------|
-| Federated Classification using Homogenous Logistic Regression model | ML       | Exposome Data           | [Go](https://github.com/EUCAIM/demo_ml_data/)|
+| Federated Classification using Homogenous Logistic Regression       | ML       | Exposome Data           | [Go](https://github.com/EUCAIM/demo_ml_data/)|
 | Federated Classification using Convolutional Neural Network         | DP       | Chest X-Ray Images Data | [Go](https://github.com/EUCAIM/demo_dl_data/)|
 
 ### Federated Learning Platforms
