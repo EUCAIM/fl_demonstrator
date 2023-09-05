@@ -4,7 +4,7 @@ A network is **already** deploy on the Owkin side. The objective of the EUCAIM d
 
 The documentation provides a [**How to guide to deploy Substra**](https://docs.substra.org/en/0.30.0/operations/walkthrough.html). As we are in a case where part of this deployment already exists, some of this guide can be skipped.
 
-The existing network correspond to the bundle version **Substra 0.30.0.** Cf here to find all component version compatible with the **0.30.0** version → <https://docs.substra.org/en/0.30.0/additional/release.html>
+The existing network correspond to the bundle version **Substra 0.30.0.** Cf here to find all component version compatible with the **0.30.0** version → [Compatibility table](https://docs.substra.org/en/0.30.0/additional/release.html)
 
 ### Steps of the EUCAIM deployment are detailed below
 
@@ -44,7 +44,7 @@ channels:
 
 This can be achieved either at deployment time or when the backend is already deployed.
 
-For context, the step is described here: [Compatibility table](https://docs.substra.org/en/0.30.0/operations/walkthrough/40-connect-organizations.html)
+For context, the step is described here: [Link](https://docs.substra.org/en/0.30.0/operations/walkthrough/40-connect-organizations.html)
 
 **Step 5:** deploy the frontend: [Link](https://docs.substra.org/en/0.30.0/operations/walkthrough/50-frontend-deployment.html)
 
