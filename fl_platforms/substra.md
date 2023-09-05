@@ -40,9 +40,11 @@ channels:
 
 → No TLS is setup for this POC, you can skip this part
 
-**Step 4:** to link the different backend, this step need a coordination in order to exchange secrets between the backends that need to communicate with each other. For this step, please contact the Owkin team in order to synchronize the backend configuration.
+**Step 4:** to link the different backend, this step need a coordination in order to exchange secrets between the backends that need to communicate with each other. The first information being the mspId of each new backend.
 
-This can be achieved either at deployment time or when the backend is already deployed.
+This can be achieved when the backend is already deployed.
+
+For this step, please contact the Owkin team in order to synchronize the backend configuration.
 
 For context, the step is described here: [Link](https://docs.substra.org/en/0.30.0/operations/walkthrough/40-connect-organizations.html)
 
