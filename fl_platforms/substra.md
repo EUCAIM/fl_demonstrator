@@ -1,3 +1,7 @@
+# Link to the Substra demo for EUCAIM
+
+-> https://github.com/owkin/EUCAIM_Substra_demo/tree/master
+
 # How to deploy Substra for EUCAIM
 
 A network is **already** deploy on the Owkin side. The objective of the EUCAIM deployment is to deploy **new backends** and **frontends** to connect to this already existing network. This deployment needs a **Kubernetes** cluster up and running per backend.
