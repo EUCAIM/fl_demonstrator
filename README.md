@@ -36,7 +36,7 @@ The following are the EUCAIM Federated Learning frameworks that enrolled to at l
   -  [Access to Demonstrator]() - TODO -
      
 **Substra**
-  -  [Learn More](fl_platforms/substra.md) - TODO -
+  -  [Learn More](fl_platforms/substra.md)
   -  [Access to Demonstrator]() - TODO -
 
 
