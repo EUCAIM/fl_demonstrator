@@ -32,7 +32,7 @@ The following are the EUCAIM Federated Learning frameworks that enrolled to at l
   -  [Access to Demonstrator]() - TODO -
     
 **Fed-BioMed**
-  -  [Learn More](fl_platforms/fed-biomed.md)
+  -  [Learn More](https://github.com/sharkovsky/EUCAIM_Fedbiomed_demo)
   -  [Access to Demonstrator]() - TODO -
      
 **Substra**
